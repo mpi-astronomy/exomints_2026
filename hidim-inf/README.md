@@ -1,7 +1,7 @@
 # Hi-Dim Team
 Lead: Beatriz
 
-Contributors: Patricio, Nora, Tamara, Max, Gilles, Morgan (@mfouesneau), David, Beatriz, Paul
+Contributors: Patricio, Nora, Tamara, Max, Gilles, Morgan ([@mfouesneau](https://github.com/mfouesneau)), David, Beatriz, Paul
 
 ## Rational
 

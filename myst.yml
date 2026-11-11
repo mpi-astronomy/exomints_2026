@@ -1,0 +1,19 @@
+# See https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: exomints-2026
+  title: exomints 2026 sprint projects
+  description: Sprint projects from the exomints 2026 conference on exoplanet-atmosphere retrievals and ML inference.
+  github: https://github.com/mpi-astronomy/exomints_2026
+  license: BSD-3-Clause
+  # Add one entry per sprint project; subfolders keep their own README as section index.
+  toc:
+    - file: README.md
+    - title: Hi-Dim inference
+      children:
+        - file: hidim-inf/README.md
+        - file: hidim-inf/datasets.md
+site:
+  template: book-theme
+  options:
+    logo_text: exomints 2026
